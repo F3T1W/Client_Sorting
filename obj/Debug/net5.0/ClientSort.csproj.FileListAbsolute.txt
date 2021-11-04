@@ -1,0 +1,16 @@
+C:\Users\F3T1W\source\repos\ClientSort\bin\Debug\net5.0\ClientSort.exe
+C:\Users\F3T1W\source\repos\ClientSort\bin\Debug\net5.0\ClientSort.deps.json
+C:\Users\F3T1W\source\repos\ClientSort\bin\Debug\net5.0\ClientSort.runtimeconfig.json
+C:\Users\F3T1W\source\repos\ClientSort\bin\Debug\net5.0\ClientSort.runtimeconfig.dev.json
+C:\Users\F3T1W\source\repos\ClientSort\bin\Debug\net5.0\ClientSort.dll
+C:\Users\F3T1W\source\repos\ClientSort\bin\Debug\net5.0\ref\ClientSort.dll
+C:\Users\F3T1W\source\repos\ClientSort\bin\Debug\net5.0\ClientSort.pdb
+C:\Users\F3T1W\source\repos\ClientSort\obj\Debug\net5.0\ClientSort.csproj.AssemblyReference.cache
+C:\Users\F3T1W\source\repos\ClientSort\obj\Debug\net5.0\ClientSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F3T1W\source\repos\ClientSort\obj\Debug\net5.0\ClientSort.AssemblyInfoInputs.cache
+C:\Users\F3T1W\source\repos\ClientSort\obj\Debug\net5.0\ClientSort.AssemblyInfo.cs
+C:\Users\F3T1W\source\repos\ClientSort\obj\Debug\net5.0\ClientSort.csproj.CoreCompileInputs.cache
+C:\Users\F3T1W\source\repos\ClientSort\obj\Debug\net5.0\ClientSort.dll
+C:\Users\F3T1W\source\repos\ClientSort\obj\Debug\net5.0\ref\ClientSort.dll
+C:\Users\F3T1W\source\repos\ClientSort\obj\Debug\net5.0\ClientSort.pdb
+C:\Users\F3T1W\source\repos\ClientSort\obj\Debug\net5.0\ClientSort.genruntimeconfig.cache
